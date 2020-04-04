@@ -171,6 +171,7 @@ echo "${Kuning}Membuat Start UP${Default}"
 cd /opt/
 sudo cat << END > start.sh
 /opt/dionaea/bin/dionaea -u nobody -g nogroup -c /opt/dionaea/etc/dionaea/dionaea.conf -w /opt/dionaea -p /opt/dionaea/var/dionaea.pid -D
+sudo p0f -i $inputan -u nobody -Q /tmp/p0f.sock -q -l -d -o /var/p0f/p0f.log
 END
 sudo chmod 655 start.sh
 cd
