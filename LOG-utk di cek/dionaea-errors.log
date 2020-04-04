@@ -1,0 +1,169 @@
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 127.0.0.1:80 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 127.0.0.1:443 (Address already in use)
+[26032020 01:10:20] connection connection.c:247-warning: Could not bind 127.0.0.1:69 (Address already in use)
+[26032020 01:10:20] connection connection.c:313-warning: Could not bind 127.0.0.1:69 (Address already in use)
+[26032020 01:10:20] connection connection.c:316-warning: Could not bind 127.0.0.1:69 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 127.0.0.1:21 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 127.0.0.1:42 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 127.0.0.1:445 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 127.0.0.1:135 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 127.0.0.1:5061 (Address already in use)
+[26032020 01:10:20] connection connection.c:247-warning: Could not bind 127.0.0.1:5060 (Address already in use)
+[26032020 01:10:20] connection connection.c:313-warning: Could not bind 127.0.0.1:5060 (Address already in use)
+[26032020 01:10:20] connection connection.c:316-warning: Could not bind 127.0.0.1:5060 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 127.0.0.1:5060 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 127.0.0.1:1433 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 127.0.0.1:3306 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 172.16.195.170:80 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 172.16.195.170:443 (Address already in use)
+[26032020 01:10:20] connection connection.c:247-warning: Could not bind 172.16.195.170:69 (Address already in use)
+[26032020 01:10:20] connection connection.c:313-warning: Could not bind 172.16.195.170:69 (Address already in use)
+[26032020 01:10:20] connection connection.c:316-warning: Could not bind 172.16.195.170:69 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 172.16.195.170:21 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 172.16.195.170:42 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 172.16.195.170:445 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 172.16.195.170:135 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 172.16.195.170:5061 (Address already in use)
+[26032020 01:10:20] connection connection.c:247-warning: Could not bind 172.16.195.170:5060 (Address already in use)
+[26032020 01:10:20] connection connection.c:313-warning: Could not bind 172.16.195.170:5060 (Address already in use)
+[26032020 01:10:20] connection connection.c:316-warning: Could not bind 172.16.195.170:5060 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 172.16.195.170:5060 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 172.16.195.170:1433 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind 172.16.195.170:3306 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:80 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:443 (Address already in use)
+[26032020 01:10:20] connection connection.c:247-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:69 (Address already in use)
+[26032020 01:10:20] connection connection.c:313-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:69 (Address already in use)
+[26032020 01:10:20] connection connection.c:316-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:69 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:21 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:42 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:445 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:135 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:5061 (Address already in use)
+[26032020 01:10:20] connection connection.c:247-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:5060 (Address already in use)
+[26032020 01:10:20] connection connection.c:313-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:5060 (Address already in use)
+[26032020 01:10:20] connection connection.c:316-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:5060 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:5060 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:1433 (Address already in use)
+[26032020 01:10:20] connection connection.c:227-warning: Could not bind fe80::20c:29ff:fe8f:6fe3:3306 (Address already in use)
+[26032020 01:10:20] processor processor.c:346-warning: var/dionaea/bistreams/2020-03-26/ <-> var/dionaea/bistreams/%Y-%m-%d/
+[26032020 01:10:20] python module.c:330-warning: start module.c
+[26032020 01:10:20] ihandlers dionaea/ihandlers.py:60-warning: START THE IHANDLERS
+[26032020 01:10:25] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:10:40] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:10:55] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:11:10] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:11:25] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:11:40] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:11:55] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:12:10] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:12:25] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:12:40] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:12:56] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:13:11] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:13:26] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:13:41] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:13:56] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:14:11] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:14:26] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:14:41] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:14:56] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:15:11] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:15:26] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:15:41] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:15:56] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:16:11] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:16:26] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:16:41] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:16:56] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:17:11] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:17:26] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:17:41] hpfeeds dionaea/[26032020 01:21:14] processor processor.c:346-warning: var/dionaea/bistreams/2020-03-26/ <-> var/dionaea/bistreams/%Y-%m-%d/
+[26032020 01:21:14] python module.c:330-warning: start module.c
+[26032020 01:21:14] ihandlers dionaea/ihandlers.py:60-warning: START THE IHANDLERS
+[26032020 01:21:19] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:21:35] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:21:50] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:22:05] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:22:20] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:22:35] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:22:50] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:23:05] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:23:20] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:23:35] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:23:50] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:24:05] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:24:20] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:24:35] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:24:50] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:25:05] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:25:20] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:25:35] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:25:50] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:26:05] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:26:20] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:26:35] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:26:50] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:26:52] connection connection.c:2101-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[26032020 01:26:54] connection connection.c:2101-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[26032020 01:26:54] connection connection.c:168-warning: getpeername failed (Transport endpoint is not connected)
+[26032020 01:26:54] connection connection.c:168-warning: getpeername failed (Transport endpoint is not connected)
+[26032020 01:26:54] connection connection.c:1929-warning: accepting connection failed, closing connection
+[26032020 01:26:54] logsql dionaea/logsql.py:691-warning: no attackid for 172.16.195.170:445
+[26032020 01:26:54] connection connection.c:168-warning: getpeername failed (Transport endpoint is not connected)
+[26032020 01:26:54] connection connection.c:1929-warning: accepting connection failed, closing connection
+[26032020 01:26:54] logsql dionaea/logsql.py:691-warning: no attackid for 172.16.195.170:3306
+[26032020 01:26:54] connection connection.c:168-warning: getpeername failed (Transport endpoint is not connected)
+[26032020 01:26:54] connection connection.c:1929-warning: accepting connection failed, closing connection
+[26032020 01:26:54] logsql dionaea/logsql.py:691-warning: no attackid for 172.16.195.170:80
+[26032020 01:26:54] connection connection.c:168-warning: getpeername failed (Transport endpoint is not connected)
+[26032020 01:26:54] connection connection.c:1929-warning: accepting connection failed, closing connection
+[26032020 01:26:54] logsql dionaea/logsql.py:691-warning: no attackid for 172.16.195.170:135
+[26032020 01:26:54] connection connection.c:168-warning: getpeername failed (Transport endpoint is not connected)
+[26032020 01:26:55] logsql dionaea/logsql.py:691-warning: no attackid for 172.16.195.170:443
+[26032020 01:26:55] connection connection.c:2101-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[26032020 01:26:57] connection connection.c:168-warning: getpeername failed (Transport endpoint is not connected)
+[26032020 01:26:57] connection connection.c:2101-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[26032020 01:26:58] connection connection.c:168-warning: getpeername failed (Transport endpoint is not connected)
+[26032020 01:26:58] connection connection.c:168-warning: getpeername failed (Transport endpoint is not connected)
+[26032020 01:26:58] connection connection.c:1929-warning: accepting connection failed, closing connection
+[26032020 01:26:58] logsql dionaea/logsql.py:691-warning: no attackid for 172.16.195.170:80
+[26032020 01:26:58] connection connection.c:2101-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[26032020 01:26:59] connection connection.c:168-warning: getpeername failed (Transport endpoint is not connected)
+[26032020 01:26:59] connection connection.c:1929-warning: accepting connection failed, closing connection
+[26032020 01:26:59] logsql dionaea/logsql.py:691-warning: no attackid for 172.16.195.170:80
+[26032020 01:27:01] connection connection.c:168-warning: getpeername failed (Transport endpoint is not connected)
+[26032020 01:27:01] connection connection.c:2101-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[26032020 01:27:02] connection connection.c:168-warning: getpeername failed (Transport endpoint is not connected)
+[26032020 01:27:02] connection connection.c:1929-warning: accepting connection failed, closing connection
+[26032020 01:27:02] logsql dionaea/logsql.py:691-warning: no attackid for 172.16.195.170:80
+[26032020 01:27:03] connection connection.c:168-warning: getpeername failed (Transport endpoint is not connected)
+[26032020 01:27:03] connection connection.c:1929-warning: accepting connection failed, closing connection
+[26032020 01:27:03] logsql dionaea/logsql.py:691-warning: no attackid for 172.16.195.170:42
+[26032020 01:27:04] connection connection.c:168-warning: getpeername failed (Transport endpoint is not connected)
+[26032020 01:27:04] connection connection.c:2101-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[26032020 01:27:05] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:27:05] connection connection.c:2101-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[26032020 01:27:07] connection connection.c:2101-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[26032020 01:27:07] connection connection.c:168-warning: getpeername failed (Transport endpoint is not connected)
+[26032020 01:27:08] logsql dionaea/logsql.py:691-warning: no attackid for 172.16.195.170:5061
+[26032020 01:27:08] connection connection.c:2101-warning: recv failed size -1 recv_size 1 (Connection reset by peer)
+[26032020 01:27:20] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:27:35] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:27:50] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:28:05] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:28:20] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:28:35] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:28:50] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:29:05] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:29:20] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:29:35] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:29:50] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:30:05] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:30:20] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:30:35] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:30:50] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:31:05] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:31:20] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:31:35] hpfeeds dionaea/hpfeeds.py:211-warning: hpclient error 1
+[26032020 01:31:50] hpfeeds dio
