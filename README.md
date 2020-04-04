@@ -356,4 +356,4 @@
         vtcache.sqlite
         wwwroot
 
-7.Instalasi selesai.
+7. Instalasi selesai.
