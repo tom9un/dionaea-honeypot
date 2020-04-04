@@ -103,12 +103,12 @@
         sudo ldconfig
         
     *   Install finger printing p0f :
-*       apt-get install p0f -y
+*       sudo apt-get install p0f -y
         cd /
-        mkdir nonexistent
-        chown -R nobody:nogroup nonexistent
-        mkdir /var/p0f
-        p0f -i eth0 -u nobody -Q /tmp/p0f.sock -q -l -d -o /var/p0f/p0f.log
+        sudo mkdir nonexistent
+        sudo chown -R nobody:nogroup nonexistent
+        sudo mkdir /var/p0f
+        sudo p0f -i eth0 -u nobody -Q /tmp/p0f.sock -q -l -d -o /var/p0f/p0f.log
         sudo chown nobody:nogroup /tmp/p0f.sock
 
     *   note => cek source input trafic sebagai -i pada p0f disini eth0, 
@@ -157,6 +157,7 @@
 
     *   pastikan konfigurasi terupdate
 *       cd /opt/dionaea/etc/dionaea
+
         diff dionaea.conf dionaea.conf.dist
 
     *   start dionaea
@@ -282,7 +283,7 @@
 
 4. Jalankan :
 
-*       ./build.sh
+*       sudo ./build.sh
 
 5. Setting parameter hanya diawal untuk inputan i p0f, berupa network interface yang akan dijadikan input monitoring, pastikan tidak salah saat menulisnya, umumnya adalah eth0 atau cek kembali dengan ifconfig.
 
