@@ -1,7 +1,7 @@
 # dionaea-honeypot
-**A. Instalasi manual dionaea di ubuntu 12.04 server x64**
+**A. Instalasi manual dionaea di VM ubuntu 12.04 server x64**
 
-1. Buat VM dari iso ubuntu 12.04 server, dengan memilih ssh server dan dns server pada saat manual instalasi;
+1. Buat VM dari iso ubuntu 12.04 server;
 
 2. Setelah selesai instalasi os, jalankan update sbb :
     
@@ -253,9 +253,9 @@
 <img width="1440" alt="Screen Shot 2020-03-26 at 16 01 15" src="https://user-images.githubusercontent.com/33028642/77649718-e5d8e680-6f9c-11ea-8823-f645637d83a0.png">
 
 
-**B. Instalasi otomatis dionaea di ubuntu 12.04 server**
+**B. Instalasi otomatis dionaea di VM ubuntu 12.04 server**
 
-1. Buat VM dari iso ubuntu 12.04 server, dengan memilih ssh server dan dns server pada saat manual instalasi;
+1. Buat VM dari iso ubuntu 12.04 server;
 
 2. Setelah selesai instalasi os, jalankan update sbb (pastikan poin 2 ini tidak ada masalah, baru lanjut ke poin berikutnya) :
 
