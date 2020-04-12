@@ -6,12 +6,15 @@
 2. Setelah selesai instalasi os, jalankan update sbb :
     
 *       sudo apt-get update
-        sudo apt-get install -f
-        sudo rm -rf /var/lib/apt/lists/*
+        sudo apt-get upgrade
+        sudo apt-get dist-upgrade
+    
+    *   Jika ada masalah/error, lakukan sbb :
+
+*       sudo rm -rf /var/lib/apt/lists/*
         sudo apt-get update
         sudo apt-get upgrade
         sudo apt-get dist-upgrade
-        sudo apt-get autoremove
 
 3. Install depedencies sbb :
     
