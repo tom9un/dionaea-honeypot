@@ -268,16 +268,10 @@
         
     *   Jika terdapat error lakukah langkah dibawah ini :
     
-*       sudo apt-get update
-        sudo apt-get install -f
-        sudo rm -rf /var/lib/apt/lists/*
-        sudo apt-get update
-        sudo apt-get update --fix-missing (Jika masing ada keterangan --fix-missing)
+*       sudo rm -rf /var/lib/apt/lists/*
         sudo apt-get update
         sudo apt-get upgrade
         sudo apt-get dist-upgrade
-        sudo apt-get autoremove
-        sudo reboot
  
 3. Download file build.sh dan buat permisionnya :
  
